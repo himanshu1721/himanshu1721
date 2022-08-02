@@ -4,6 +4,11 @@
 * React Native
 
 
+## Programming Languages I am familiar with
+ * TypeScript
+ * Javascript
+ 
+ 
 ## Current Works
  * I'm currently working on 🔭 building **Mobile Apps using React Native** and working up on polishing my skills 🌱 in **Data Structures and Algorithms**.
 
